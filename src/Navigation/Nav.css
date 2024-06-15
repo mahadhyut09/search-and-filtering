@@ -1,0 +1,27 @@
+nav{
+    display: flex;
+    border-bottom: 2px solid #d1b7b7;
+    justify-content: space-around;
+    align-items:center;
+    padding: 20px;
+    z-index:999;
+    margin-left: 20vw;
+}
+input{
+    padding:12px 20px;
+    border:none;
+    background: #f7f6f6;
+    margin-right: 20px;
+    margin-left: 8rem;
+    border-radius: 5px;
+    position:relative;
+    width:14rem;
+}
+.nav-icons{
+     width: 1.5rem;
+     height:1.5rem;
+     color: rgb(33, 33, 184);
+     margin-left: 2rem;
+}
+
+

@@ -1,0 +1,31 @@
+.recommended-btns{
+    display: flex;
+    margin-left: 20rem;
+}
+
+.recommended-title{
+    margin-left: 20rem;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.btns {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #41463c;
+    border:none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px 20px;
+    width: 130px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+   }
+   
+   .btns:hover{
+    background-color: rgb(4, 4, 77);
+   }
+   
